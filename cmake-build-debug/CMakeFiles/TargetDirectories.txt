@@ -1,0 +1,3 @@
+/home/max/dev/gamedev/max-game-framework/cmake-build-debug/CMakeFiles/max_game_framework.dir
+/home/max/dev/gamedev/max-game-framework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/dev/gamedev/max-game-framework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

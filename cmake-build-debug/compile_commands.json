@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/max/dev/gamedev/max-game-framework/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/max/dev/gamedev/max-game-framework/include -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/max_game_framework.dir/src/RayMax.cpp.o -c /home/max/dev/gamedev/max-game-framework/src/RayMax.cpp",
+  "file": "/home/max/dev/gamedev/max-game-framework/src/RayMax.cpp",
+  "output": "CMakeFiles/max_game_framework.dir/src/RayMax.cpp.o"
+},
+{
+  "directory": "/home/max/dev/gamedev/max-game-framework/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/max/dev/gamedev/max-game-framework/include -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/max_game_framework.dir/main.cpp.o -c /home/max/dev/gamedev/max-game-framework/main.cpp",
+  "file": "/home/max/dev/gamedev/max-game-framework/main.cpp",
+  "output": "CMakeFiles/max_game_framework.dir/main.cpp.o"
+}
+]
